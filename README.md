@@ -51,7 +51,7 @@ Target is expanding its e-commerce presence. This project analyzes order-level d
 - Delivery performance and freight cost show clear regional variation — opportunity for logistics optimization.
 - Payment method and installment behavior reveal customer purchasing power segments.
 
-*(Full query results and detailed insights are in the notebook/PDF report.)*
+*(Full query results and detailed insights are in the PDF report.)*
 
 ---
 
